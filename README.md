@@ -11,6 +11,8 @@
   </a> 
 </p>
 - Skills : python , machine learning , deep learning, SQL, NLP, Statistics
+
+
 - 🔭 I’m currently learning about **Generative AI**
 
 <h3 align="left">Connect with me:</h3>
