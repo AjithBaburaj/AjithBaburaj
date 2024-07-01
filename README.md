@@ -10,7 +10,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ajithbaburaj" alt="ajithbaburaj" />
   </a> 
 </p>
-
+- Skills : python , machine learning , deep learning, SQL, NLP, Statistics
 - 🔭 I’m currently learning about **Generative AI**
 
 <h3 align="left">Connect with me:</h3>
